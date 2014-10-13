@@ -8,3 +8,5 @@ Project group members are: David Klaus, Kevin Leshane, and Alex Welles
 
 Class: Intro to Embedded Systems EC535
 
+Please see the uploaded report which contains a detailed explanation 
+of the project.
