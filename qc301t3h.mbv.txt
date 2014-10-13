@@ -1,0 +1,33 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   535_final_report.pdf
+#	new file:   QT_gui_test/#Makefile#
+#	new file:   QT_gui_test/Makefile
+#	new file:   QT_gui_test/SPECIAL/Makefile
+#	new file:   QT_gui_test/error_lts.txt
+#	new file:   QT_gui_test/main.cpp
+#	new file:   QT_gui_test/main.o
+#	new file:   QT_gui_test/mainwindow.cpp
+#	new file:   QT_gui_test/mainwindow.h
+#	new file:   QT_gui_test/mainwindow.o
+#	new file:   QT_gui_test/mainwindow.ui
+#	new file:   QT_gui_test/moc_mainwindow.cpp
+#	new file:   QT_gui_test/moc_mainwindow.o
+#	new file:   QT_gui_test/moc_window.cpp
+#	new file:   QT_gui_test/moc_window.o
+#	new file:   QT_gui_test/projectQT
+#	new file:   QT_gui_test/projectQT.pro
+#	new file:   QT_gui_test/qt_stuff.pro
+#	new file:   QT_gui_test/ui_mainwindow.h
+#	new file:   QT_gui_test/window.cpp
+#	new file:   QT_gui_test/window.h
+#	new file:   QT_gui_test/window.o
+#	new file:   S98pip_boy_start.txt
+#	new file:   pipboy_user5.c
+#
+
